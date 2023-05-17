@@ -1,0 +1,26 @@
+_repo: Bouncing-Bet_70745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gray, Joslyn
+    gutenberg_agent_id: '25559'
+    url: http://www.gutenberg.org/2009/agents/25559
+description: ''
+gutenberg_issued: '2023-05-12'
+identifiers:
+  gutenberg: '70745'
+language: en
+pgterms:marc904: https://archive.org/details/bouncingbet00gray/mode/2up
+pgterms:marc905: 20220707165717gray
+pgterms:marc906: '1921'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The New York Public Library's Digital Collections)
+publication_note: '  $aUnited States :$bChas. Scribner''s Sons, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bouncing Bet
+url: http://www.gutenberg.org/ebooks/70745
